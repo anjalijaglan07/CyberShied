@@ -10,13 +10,6 @@ gunicorn==21.2.0
 Werkzeug==2.2.3
 python-dotenv==1.0.1
 
-"""Optional (if you use them):
-Add these only if you're using them in your code:"""
 tensorflow==2.15.0
 flask-cors==4.0.0
 
-"""Tips:
-Make sure to freeze your current environment to lock all dependencies:
-"""
-
-pip freeze > requirements.txt

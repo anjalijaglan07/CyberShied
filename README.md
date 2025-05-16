@@ -73,8 +73,6 @@ Advanced-Malware-Detection-System/
 ├── templates/
 ├── utils/                  # Helper scripts
 ├── dataset/                # Sample data (if any)
-├── reports/                # Project report
-│   └── Final_Report.pdf
 ├── requirements.txt
 ├── README.md
 └── .gitignore

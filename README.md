@@ -84,7 +84,7 @@ Advanced-Malware-Detection-System/
 
 ## 📄 Project Report
 
-A detailed report covering design, datasets, ML pipeline, and testing is available in the `/reports/` directory.
+feel free to content me via email.(anjalijaglan07@gmail.com)
 
 ---
 

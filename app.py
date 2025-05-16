@@ -12,7 +12,7 @@ app = Flask(__name__)
 
 # Replace with your actual VirusTotal API key
 VIRUSTOTAL_API_KEY = "e977dbb712fde0f5c1fc57390d881482c6fcceca4dbe52ccd2ee6b3b03962440"
-data = pd.read_csv('E:\\clg\\last_sem\\major_project\\MalwareDataSet.csv')
+data = pd.read_csv('MalwareDataSet.csv')
 data.groupby(data['legitimate']).size()
 features = data.iloc[:,[0,1,2,3,4,5,6]].values 
 ifMalware = data.iloc[:,7].values 

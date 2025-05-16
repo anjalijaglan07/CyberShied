@@ -41,11 +41,11 @@ git clone https://github.com/yourusername/Advanced-Malware-Detection-System.git
 
 cd Advanced-Malware-Detection-System
 
-2. Install Requirements
+### 2. Install Requirements
 bash
 pip install -r requirements.txt
 
-3. Run the Application
+### 3. Run the Application
 bash
 python app/main.py
 

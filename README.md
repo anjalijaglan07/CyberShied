@@ -82,7 +82,7 @@ Advanced-Malware-Detection-System/
 
 ## 📄 Project Report
 
-feel free to content me via email.(anjalijaglan07@gmail.com)
+feel free to contact me via email.(anjalijaglan07@gmail.com)
 
 ---
 
